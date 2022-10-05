@@ -1,7 +1,13 @@
 {
   "production": {
-    "use_env_variable": "DATABASE_URL",
+    "DB_NAME": "in_work",
+    "DB_USER": "postgres",
+    "DB_PASSWORD": "rootroot",
+
     "dialect": "postgres",
+    "host": "localhost",
+    "port": 8000,
+
     "dialectOptions": {
       "ssl": {
         "require": true,
