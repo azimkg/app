@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "build": "echo 'Bulding.... (not actually doing something, but usually I would)'"
+    "build": "build"
   },
   "keywords": [],
   "author": "Azimkg",
