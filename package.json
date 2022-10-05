@@ -8,7 +8,7 @@
     "npm": "8.1.2"
   },
   "scripts": {
-    "start": "node index"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Azimkg",
