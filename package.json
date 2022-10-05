@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "16.13.1",
+    "node": "16.x",
     "npm": "8.1.2"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "echo 'Bulding.... (not actually doing something, but usually I would)'"
   },
   "keywords": [],
   "author": "Azimkg",
