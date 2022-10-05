@@ -1,0 +1,24 @@
+{
+  "name": "node_postgre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16",
+    "npm": "8.1.2"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Azimkg",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.23.2"
+  }
+}
